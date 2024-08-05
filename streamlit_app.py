@@ -25,7 +25,7 @@ from sklearn.metrics import mean_squared_error, r2_score
 
 np.float = float 
 
-st.markdown(""" # Cdac project Prediction App 👋
+st.markdown(""" # Customer LifeTime Value Prediction App 👋
 
 
 Upload the RFM data and get your customer lifetime prediction on the fly !!! :smile:
